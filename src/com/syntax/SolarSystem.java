@@ -1,9 +1,9 @@
 package com.syntax;
 
 public class SolarSystem {
-    String sun;
-    String moon;
-    String planet;
-    String stars;
-    
+    String Sun;
+    String Moon;
+    String Planet;
+    String Stars;
+
 }
